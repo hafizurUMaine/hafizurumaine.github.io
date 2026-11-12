@@ -4,7 +4,7 @@
 
 This repository hosts the source of my academic portfolio.
 
-**Website:** https://hafizuriu.github.io/
+**Website:** https://hafizurumaine.github.io/
 
 ## About
 
